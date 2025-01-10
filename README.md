@@ -23,7 +23,7 @@
   ```bash
   cd mcl/scripts
   python3 mcl.py
-
+```
 ---
 
 ## 参考文献
