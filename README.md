@@ -6,7 +6,7 @@
 
 以下はプログラム実行時の例です.
 
-<img src="https://github.com/user-attachments/assets/f3d22181-6caa-41f3-9915-4f345a79a8de" width="100">
+<img src="https://github.com/user-attachments/assets/f3d22181-6caa-41f3-9915-4f345a79a8de" width="300">
 
 ## 主な機能
 
